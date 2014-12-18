@@ -1,0 +1,18 @@
+{
+    "name": "ascension/ascension",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Ascension\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "radium/framework": "2.0.*",
+        "radium/twig-templating": "1.0.*",
+        "radium/twbs-helper": "1.0.*",
+        "radium/asset-helper": "1.0.*",
+        "avalon/database": "2.0.*"
+    }
+}

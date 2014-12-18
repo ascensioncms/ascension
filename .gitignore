@@ -1,0 +1,10 @@
+# Ascension
+/src/config/config.php
+/src/config/database.php
+
+# Composer
+/vendor
+
+# Misc
+.DS_Store
+/.htaccess
